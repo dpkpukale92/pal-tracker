@@ -38,13 +38,3 @@ test.environment([
         "WELCOME_MESSAGE": "Hello from test",
 ])
 
-assignments {
-    apiUrl = "https://assignments.education.pivotal.io/"
-    emails = [
-            "deepak_pukale@dell.com",
-            "amit_kumar_singh5@dell.com",
-
-
-    ]
-    cohortIdentifier = "349803207"
-}
